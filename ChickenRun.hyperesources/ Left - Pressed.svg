@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="136px" height="74px" viewBox="0 0 136 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Key / Left - Pressed</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#7C7C7C" offset="0%"></stop>
+            <stop stop-color="#5B5858" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="98.3309878%" x2="50%" y2="2.28196747%" id="linearGradient-2">
+            <stop stop-color="#5E5D5D" offset="0%"></stop>
+            <stop stop-color="#818181" offset="100%"></stop>
+        </linearGradient>
+        <rect id="path-3" x="0" y="0" width="130" height="70" rx="12"></rect>
+        <polygon id="path-4" points="55 35.5625 70 29 70 42.125"></polygon>
+        <filter x="-3.3%" y="-3.8%" width="106.7%" height="115.2%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.764705882   0 0 0 0 0.768627451   0 0 0 0 0.776470588  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Key-/-Left---Pressed">
+            <g id="Left" transform="translate(4.000000, 2.000000)">
+                <g id="key">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <rect stroke="#B3B3B3" stroke-width="2" x="-1" y="-1" width="132" height="72" rx="12"></rect>
+                    <rect stroke="#818181" stroke-width="8" x="4" y="4" width="122" height="62" rx="12"></rect>
+                    <rect stroke="url(#linearGradient-2)" stroke-width="6" x="3" y="3" width="124" height="64" rx="12"></rect>
+                    <use stroke="#464444" stroke-width="2" xlink:href="#path-3"></use>
+                </g>
+                <g id="Shape-4">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#4D4E4F" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

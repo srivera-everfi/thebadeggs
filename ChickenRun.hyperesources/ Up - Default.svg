@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="136px" height="74px" viewBox="0 0 136 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Key / Up - Default</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="0.460379464%" x2="50%" y2="100%" id="linearGradient-1">
+            <stop stop-color="#F0F0F0" offset="0%"></stop>
+            <stop stop-color="#F5F5F5" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="linearGradient-2">
+            <stop stop-color="#FFFFFF" offset="0%"></stop>
+            <stop stop-color="#E6E6E6" offset="100%"></stop>
+        </linearGradient>
+        <path d="M0,11.990396 C0,5.36828313 5.37721369,0 12.0095332,0 L121.990467,0 C128.623149,0 134,5.38225675 134,11.990396 L134,72 L0,72 L0,11.990396 Z" id="path-3"></path>
+        <polygon id="path-4" points="67 24 60 40 74 40"></polygon>
+        <filter x="-7.1%" y="-6.2%" width="114.3%" height="125.0%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 1   0 0 0 0 1   0 0 0 0 1  0 0 0 1 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Key-/-Up---Default">
+            <g id="Up" transform="translate(1.000000, 1.000000)">
+                <g id="key">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#FFFFFF" stroke-width="8" d="M4,68 L130,68 L130,11.990396 C130,7.58727745 126.409887,4 121.990467,4 L12.0095332,4 C7.5847821,4 4,7.57899511 4,11.990396 L4,68 Z"></path>
+                    <path stroke="url(#linearGradient-2)" stroke-width="6" d="M3,69 L131,69 L131,11.990396 C131,7.03481575 126.961995,3 121.990467,3 L12.0095332,3 C7.0328587,3 3,7.02634836 3,11.990396 L3,69 Z"></path>
+                    <path stroke="#8A8A8A" stroke-width="2" d="M1,71 L133,71 L133,11.990396 C133,5.92989235 128.066211,1 121.990467,1 L12.0095332,1 C5.92901189,1 1,5.92105488 1,11.990396 L1,71 Z"></path>
+                    <path stroke-opacity="0.6" stroke="#818181" stroke-width="1" d="M-0.5,11.990396 C-0.5,5.09208476 5.10112679,-0.5 12.0095332,-0.5 L121.990467,-0.5 C128.894373,-0.5 134.5,5.10119981 134.5,11.990396 L134.5,72.5 L-0.5,72.5 L-0.5,11.990396 Z"></path>
+                </g>
+                <g id="Shape-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#6E6F71" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

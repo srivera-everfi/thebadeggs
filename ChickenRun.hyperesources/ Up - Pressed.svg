@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="136px" height="74px" viewBox="0 0 136 74" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>Key / Up - Pressed</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#7C7C7C" offset="0%"></stop>
+            <stop stop-color="#5B5858" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="98.3309878%" x2="50%" y2="2.28196747%" id="linearGradient-2">
+            <stop stop-color="#5E5D5D" offset="0%"></stop>
+            <stop stop-color="#818181" offset="100%"></stop>
+        </linearGradient>
+        <path d="M11,0 L121,0 L121,0 C127.075132,-1.11598369e-15 132,4.92486775 132,11 L132,68 L0,68 L0,11 L0,11 C-7.43989126e-16,4.92486775 4.92486775,1.11598369e-15 11,0 Z" id="path-3"></path>
+        <polygon id="path-4" points="65.5625 23 59 38 72.125 38"></polygon>
+        <filter x="-3.8%" y="-3.3%" width="107.6%" height="113.3%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="0" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0.764705882   0 0 0 0 0.768627451   0 0 0 0 0.776470588  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Key-/-Up---Pressed">
+            <g id="Up" transform="translate(2.000000, 4.000000)">
+                <g id="key">
+                    <use fill="url(#linearGradient-1)" fill-rule="evenodd" xlink:href="#path-3"></use>
+                    <path stroke="#B3B3B3" stroke-width="2" d="M11,-1 L121,-1 C127.627417,-1 133,4.372583 133,11 L133,69 L-1,69 L-1,11 C-1,4.372583 4.372583,-1 11,-1 Z"></path>
+                    <path stroke="#818181" stroke-width="8" d="M4,64 L128,64 L128,11 C128,7.13400675 124.865993,4 121,4 L11,4 C7.13400675,4 4,7.13400675 4,11 L4,64 Z"></path>
+                    <path stroke="url(#linearGradient-2)" stroke-width="6" d="M3,65 L129,65 L129,11 C129,6.581722 125.418278,3 121,3 L11,3 C6.581722,3 3,6.581722 3,11 L3,65 Z"></path>
+                    <use stroke="#464444" stroke-width="2" xlink:href="#path-3"></use>
+                </g>
+                <g id="Shape-2">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-5)" xlink:href="#path-4"></use>
+                    <use fill="#4D4E4F" fill-rule="evenodd" xlink:href="#path-4"></use>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

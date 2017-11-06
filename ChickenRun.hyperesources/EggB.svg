@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="126px" height="146px" viewBox="0 0 126 146" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 47.1 (45422) - http://www.bohemiancoding.com/sketch -->
+    <title>EggB</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <path d="M63.5283452,139 C97.8473308,139 123.158203,111.578965 123.158203,77.7534041 C123.158203,43.9278432 79.0796906,-1.76477887 52.9814865,0.0525603519 C36.4841506,1.20134652 -1.14123676,47.44411 0.469566895,84.2501301 C1.66879555,111.651877 29.2093596,139 63.5283452,139 Z" id="path-1"></path>
+    </defs>
+    <g id="Chix-Select" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="EggB">
+            <g>
+                <g id="Group" transform="translate(0.000000, 7.000000)">
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Oval-3" fill="#FFB639" xlink:href="#path-1"></use>
+                    <path d="M68.5283452,129 C102.847331,129 128.158203,101.578965 128.158203,67.7534041 C128.158203,33.9278432 84.0796906,-11.7647789 57.9814865,-9.94743965 C41.4841506,-8.79865348 3.85876324,37.44411 5.4695669,74.2501301 C6.66879555,101.651877 34.2093596,129 68.5283452,129 Z" id="Oval-3" fill="#FAE183" mask="url(#mask-2)"></path>
+                </g>
+                <path d="M65.9574822,145 C106.423828,145 125.158203,112.592597 125.158203,77.5502891 C125.158203,42.5079814 80.8753136,-0.828260129 55.8402702,1.05445101 C40.014985,2.24456042 1.92234019,45.1507326 3.46752466,83.2807104 C4.61790042,111.668132 25.4911363,145 65.9574822,145 Z" id="Outline" stroke="#FF6608" fill-opacity="0" fill="#FAE183"></path>
+            </g>
+        </g>
+    </g>
+</svg>
